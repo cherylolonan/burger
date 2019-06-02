@@ -1,6 +1,4 @@
-# burger
-
-# Node Express Handlebars
+# Eat-Da-Burger - Node Express Handlebars
 
 ### Overview
 
