@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    line-height: 150%;
+    font-family: 'Baloo Da', cursive; 
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    align-content: center;
+}
+
+body {
+    text-align: center;
+    background-color: lightblue;
+    line-height: 150%;
+    font-family: 'Baloo Da', cursive;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 30%;
+    margin-right: 25%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 50%;
+    flex: 1;
+}
+
+.uneaten {
+    padding: 10px;
+}
+
+.devoured {
+    padding: 10px;
+}
+
+.form {
+    padding: 15px;
+    position: relative;
+}
+
+.uneaten-two {
+    background-color: white;
+    width: 175px;
+    height: 50px;
+    padding: 5px;
+}
+
+.devoured-two {
+    background-color: grey;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+}
+
+p {
+    text-align: center;
+    background-color: lightblue;
+    line-height: 100%;
+    font-family: 'Baloo Da', cursive;
+}
